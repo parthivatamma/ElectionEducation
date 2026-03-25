@@ -1,4 +1,4 @@
-# AI Hackathon Project
+# ElectionEducation
 
 A full-stack application combining a FastAPI backend with RAG (Retrieval-Augmented Generation) capabilities and a React frontend for article credibility assessment and intelligent chat interactions.
 
